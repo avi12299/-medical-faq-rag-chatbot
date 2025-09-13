@@ -39,7 +39,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers medical questions us
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/avi12299/medical-faq-rag-chatbot.git
+   git clone https://github.com/avi12299/-medical-faq-rag-chatbot.git
    cd medical-faq-rag-chatbot
    ```
 
