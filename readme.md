@@ -63,7 +63,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers medical questions us
 
 4. **Run the Application**
    ```bash
-   streamlit run medical_chatbot_app.py
+   streamlit run medicalchatbot.py
    ```
 
 5. **Open in Browser**
