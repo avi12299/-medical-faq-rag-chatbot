@@ -1,0 +1,10 @@
+streamlit
+langchain>=0.3
+langchain-core
+langchain-ollama
+langchain-community
+langchain-chroma
+langchain_text_splitters
+pandas
+numpy
+
